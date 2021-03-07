@@ -12,6 +12,8 @@ by. 고려대학교 경제학과 진리장학금
 * Linear Regression, Logistic Regression을 통한 정규직/비정규직 확률 계산 모델
 * 확률을 통한 기대소득 계산
 
+## Orders
+
 ### 1. 서론
 1.1 연구 목적  
 1.2 선행연구  
